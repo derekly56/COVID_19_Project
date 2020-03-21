@@ -1,7 +1,5 @@
 # COVID-19 Project  
 
-COVID-19 (Coronavirus) has been running rampant in infections around the globe.
-
 This project will pull data from [kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#time_series_covid_19_recovered.csv)
 and create a time-series heatmap of the United States of the COVID-19 bacteria strain.  
 
